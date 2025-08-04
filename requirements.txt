@@ -1,1 +1,8 @@
 fastapi[all]
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pydantic
